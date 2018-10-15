@@ -1,0 +1,62 @@
+<style>
+		p{
+			width: 49%; 
+			margin-left: 300px; 
+			text-align: justify;
+		}
+		form{
+			width: 60%; 
+			margin-left: 300px;
+			padding: 0 0 20px 0;
+		}
+		form input{
+			width: 70%;
+			height: 40px;
+			border-radius: 3px;
+			border: none;
+			border: 1px solid #C62127;
+			display: block;
+			margin-bottom: 10px;
+			margin-left: 50px;
+			font-size: 17px;
+			padding: 5px;
+		}
+		form input[type='submit']{
+			background-color: #AF1C34;
+			color: #eee;
+			font-size: 17px;
+			text-align: center;
+			cursor: pointer;
+		}
+		form input[type='radio']{
+			display: inline-block;
+			width: 30px;
+			height: 10px;
+
+		}
+		form select{
+			width: 71.5%;
+			height: 50px;
+			border-radius: 3px;
+			border: none;
+			border: 1px solid #C62127;
+			display: block; 
+			margin-bottom: 10px;
+			margin-left: 50px;
+			font-size: 14px;
+			padding: 10px;
+		}
+		form textarea{
+			width: 70%;
+			height: 200px;
+			border-radius: 3px;
+			border: none;
+			border: 1px solid #C62127;
+			display: block;
+			margin-bottom: 10px;
+			margin-left: 40px;
+			font-size: 17px;
+			padding: 10px;
+			resize: none;
+		}
+	</style>
